@@ -1,0 +1,3 @@
+git add <fileName>  暂存被修改的文件
+git add .           暂存修改的所有文件和目录
+git commit -m       提交
